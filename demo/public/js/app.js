@@ -1871,6 +1871,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {
     console.log('Component mounted.');
@@ -37202,7 +37203,7 @@ var staticRenderFns = [
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
               _vm._v(
-                "\n                    I'm an example component.\n                "
+                "\n                    I'm an example component.\n                    this is me\n                "
               )
             ])
           ])
@@ -49387,7 +49388,7 @@ Vue.component('example-component', __webpack_require__(/*! ./components/ExampleC
  */
 
 var app = new Vue({
-  el: '#app'
+  el: '#example'
 });
 
 /***/ }),
@@ -49526,8 +49527,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! F:\LARAVEL\blog\demo\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! F:\LARAVEL\blog\demo\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! F:\LARAVEL\iocompany\demo\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! F:\LARAVEL\iocompany\demo\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
