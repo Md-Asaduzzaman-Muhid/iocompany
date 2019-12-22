@@ -24,7 +24,7 @@
     <main class="py-4">
         @yield('content')
         <div id="example">
-                <example-component />
+            <example-component />
         </div>
     </main>
     @include('common.footer')
