@@ -28489,6 +28489,14 @@ a.text-muted:hover {
   border-color: #dee2e6;
 }@charset "UTF-8";
 
+.header .navbar-nav .nav-link {
+  font-size: 20px;
+}
+
+.header nav img {
+  max-width: 100px;
+}
+
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
